@@ -4,18 +4,18 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com.wheezy.template</groupId>
-  <artifactId>java-hello-world</artifactId>
+  <groupId>test</groupId>
+  <artifactId>wheezy-test</artifactId>
   <version>0.0.1-SNAPSHOT</version>
 
-  <name>java-hello-world</name>
+  <name>wheezy-test</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <maven.compiler.source>1.7</maven.compiler.source>
-    <maven.compiler.target>1.7</maven.compiler.target>
+    <maven.compiler.source>13</maven.compiler.source>
+    <maven.compiler.target>13</maven.compiler.target>
   </properties>
 
   <dependencies>

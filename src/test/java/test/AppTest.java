@@ -1,4 +1,4 @@
-package com.wheezy.template;
+package test;
 
 import static org.junit.Assert.assertTrue;
 

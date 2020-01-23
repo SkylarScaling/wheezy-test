@@ -1,4 +1,4 @@
-package com.wheezy.template;
+package test;
 
 /**
  * Hello world!
