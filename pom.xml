@@ -11,7 +11,7 @@
 
 	<name>wheezy-test</name>
 	<!-- FIXME change it to the project's website -->
-	<url>http://www.example.com</url>
+	<url>https://github.com/SkylarScaling</url>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -34,7 +34,7 @@
 		<dependency>
 			<groupId>org.fxmisc.richtext</groupId>
 			<artifactId>richtextfx</artifactId>
-			<version>1.0.2-gluon</version>
+			<version>0.10.4</version>
 		</dependency>
 		<dependency>
 			<groupId>junit</groupId>
