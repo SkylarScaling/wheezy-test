@@ -97,8 +97,11 @@
 					<!-- <configuration>
 						<mainClass>test.richTextFx.JavaKeywordsAsyncDemo</mainClass>
 					</configuration> -->
-					<configuration>
+					<!-- <configuration>
 						<mainClass>test.richTextFx.ManualHighlightingDemo</mainClass>
+					</configuration> -->
+					<configuration>
+						<mainClass>test.ui.TestUI</mainClass>
 					</configuration>
 				</plugin>
 			</plugins>
